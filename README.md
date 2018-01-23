@@ -5,8 +5,8 @@
 #PBS -q debug
 #PBS -l nodes=1:ppn=16,vmem=16gb
 #PBS -l walltime=1:00:00
-#BS -m abe
-#PBS -M rtraborn@indiana.edu
+#PBS -m abe
+#PBS -M iwongso@indiana.edu
 
 module load sra-toolkit
 module load fastqc
